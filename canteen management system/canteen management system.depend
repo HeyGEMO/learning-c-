@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654103695 source:c:\users\harin\desktop\projects\canteen management system\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<typeinfo>
+
